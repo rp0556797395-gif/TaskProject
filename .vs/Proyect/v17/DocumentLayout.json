@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05EA\u05D9 \u05E4\u05E0\u05D9\u05E8\u05D9\\FANIRI\\Proyect\\Proyect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B02682A-6405-49C4-ADC0-E81086882858}|Proyect.DATA\\Proyect.Data.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05EA\u05D9 \u05E4\u05E0\u05D9\u05E8\u05D9\\faniri\\proyect\\proyect\\proyect.data\\repoistories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B02682A-6405-49C4-ADC0-E81086882858}|Proyect.DATA\\Proyect.Data.csproj|solutionrelative:proyect.data\\repoistories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15E08B6-3634-4746-A91A-8087E8FB38EC}|Proyect.Service\\Proyect.Service.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05EA\u05D9 \u05E4\u05E0\u05D9\u05E8\u05D9\\faniri\\proyect\\proyect\\proyect.service\\clientservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15E08B6-3634-4746-A91A-8087E8FB38EC}|Proyect.Service\\Proyect.Service.csproj|solutionrelative:proyect.service\\clientservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1D2829-6601-4467-BA4C-6AB6077F253A}|Proyect\\Proyect.csproj|t:\\group b\\netcore\\\u05E8\u05D5\u05EA\u05D9 \u05E4\u05E0\u05D9\u05E8\u05D9\\faniri\\proyect\\proyect\\proyect\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1D2829-6601-4467-BA4C-6AB6077F253A}|Proyect\\Proyect.csproj|solutionrelative:proyect\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05EA\u05D9 \u05E4\u05E0\u05D9\u05E8\u05D9\\FANIRI\\Proyect\\Proyect\\Proyect.DATA\\Repoistories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Proyect.DATA\\Repoistories\\ClientRepository.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05EA\u05D9 \u05E4\u05E0\u05D9\u05E8\u05D9\\FANIRI\\Proyect\\Proyect\\Proyect.DATA\\Repoistories\\ClientRepository.cs",
+              "RelativeToolTip": "Proyect.DATA\\Repoistories\\ClientRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T13:03:55.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientServise.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05EA\u05D9 \u05E4\u05E0\u05D9\u05E8\u05D9\\FANIRI\\Proyect\\Proyect\\Proyect.Service\\ClientServise.cs",
+              "RelativeDocumentMoniker": "Proyect.Service\\ClientServise.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05EA\u05D9 \u05E4\u05E0\u05D9\u05E8\u05D9\\FANIRI\\Proyect\\Proyect\\Proyect.Service\\ClientServise.cs",
+              "RelativeToolTip": "Proyect.Service\\ClientServise.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T13:02:13.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05EA\u05D9 \u05E4\u05E0\u05D9\u05E8\u05D9\\FANIRI\\Proyect\\Proyect\\Proyect\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Proyect\\Controllers\\ClientsController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05E8\u05D5\u05EA\u05D9 \u05E4\u05E0\u05D9\u05E8\u05D9\\FANIRI\\Proyect\\Proyect\\Proyect\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Proyect\\Controllers\\ClientsController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T13:00:25.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
